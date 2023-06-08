@@ -88,5 +88,5 @@ def main():
     st.markdown("Created by Nishant Pandit : [LinkedIN](https://www.linkedin.com/in/abhishekgupta2000/)")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
